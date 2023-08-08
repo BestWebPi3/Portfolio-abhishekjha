@@ -105,6 +105,9 @@ body {
   text-decoration: none;
   color: #383838;
 }
+#home #nav a:hover {
+  color: red;
+}
 
  #nav a .line {
   position: absolute;
